@@ -20,6 +20,7 @@ import SupplyChainPage from './components/SupplyChain';
 import EndToEnd from './components/EndToEnd';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import TermsConditions from './components/TermsConditions';
+import Sitemap from './components/Sitemap';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -141,6 +142,9 @@ function App() {
           } />
           <Route path="/terms-and-conditions" element={
             <main><TermsConditions /></main>
+          } />
+          <Route path="/sitemap" element={
+            <main><Sitemap /></main>
           } />
         </Routes>
         <Footer />

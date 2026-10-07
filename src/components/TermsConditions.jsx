@@ -28,7 +28,8 @@ export default function TermsConditions() {
 <li>Message frequency varies based on customer inquiries.</li>
 <li>Message and data rates may apply.</li>
 <li>For support, text HELP or contact us at info@supplystreamcorp.com.</li>
-<li>Text STOP to opt out of future messages at any time.</li></ul>
+<li>Text STOP to opt out of future messages at any time.</li>
+      </ul>
         <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>Types of SMS Communications:</h3>
         <p style={{ marginBottom: 10, lineHeight: 1.8, color: '#444' }}>Users may receive the following messages:</p>
         <ul style={{ marginBottom: 30, paddingLeft: 20, lineHeight: 2, color: '#444' }}>

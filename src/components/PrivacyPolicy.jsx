@@ -24,8 +24,8 @@ export default function PrivacyPolicy() {
         <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>SMS Privacy Disclosure:</h3>
         <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>Mobile opt-in, SMS consent, and phone numbers collected for SMS communication purposes will not be shared with any third parties or affiliates for marketing purposes.</p>
 
-        <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>SMS Communications:</h3>
-        <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>Users may receive load offers, dispatch updates, shipment notifications, rate confirmations, follow-up messages, appointment reminders, and customer support communications.</p>
+        <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>SMS Privacy Policy:</h3>
+        <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>SUPPLY STREAM CORP will not sell or share your mobile opted-in consent data with any third parties.</p>
         <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>Standard message and data rates may apply. Users may opt out anytime by replying STOP.</p>
       </div>
     </section>

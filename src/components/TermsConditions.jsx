@@ -18,7 +18,16 @@ export default function TermsConditions() {
 
         <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>SMS Consent Communication:</h3>
         <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>The phone number provided during the SMS consent process will not be shared with any third parties or affiliates for marketing purposes.</p>
-
+        
+<h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>SMS Terms</h3>
+        <p style={{ marginBottom: 30, lineHeight: 1.8, color: '#444' }}>SUPPLY STREAM CORP sends text messages to those that opt in.</p>
+<li></li>Messages we send include:</li>
+<li>Account Notification</li>
+<li>Customer Care</li>
+<li>Message frequency varies based on customer inquiries.</li>
+<li>Message and data rates may apply.</li>
+<li>For support, text HELP or contact us at info@supplystreamcorp.com.</li>
+<li>Text STOP to opt out of future messages at any time.</li>
         <h3 style={{ fontFamily: 'var(--font-mono)', fontSize: '0.9rem', color: 'var(--color-primary)', marginBottom: 15, letterSpacing: '0.1em', textTransform: 'uppercase' }}>Types of SMS Communications:</h3>
         <p style={{ marginBottom: 10, lineHeight: 1.8, color: '#444' }}>Users may receive the following messages:</p>
         <ul style={{ marginBottom: 30, paddingLeft: 20, lineHeight: 2, color: '#444' }}>
